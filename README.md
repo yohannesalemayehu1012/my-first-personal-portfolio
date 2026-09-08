@@ -16,14 +16,14 @@ This portfolio website serves as a comprehensive overview of my professional pro
 ### Home Page
 ![Home Section](./images/Home.png)
 
-### Portfolio Projects
-![Portfolio Showcase](./images/Portfolio.png)
+### About Section
+![About Page](./images/About.png)
 
 ### Services
 ![Services Section](./images/Service.png)
 
-### About Section
-![About Page](./images/About.png)
+### Portfolio
+![Services Section](./images/Portfolio.png)
 
 ### Contact
 ![Contact Section](./images/Contact.png)
