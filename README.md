@@ -11,6 +11,23 @@ This portfolio website serves as a comprehensive overview of my professional pro
 - **Education** - Academic background and certifications
 - **Experience** - Professional work history and accomplishments
 
+## 🖼️ Portfolio Preview
+
+### Home Page
+![Home Section](./images/Home.png)
+
+### Portfolio Projects
+![Portfolio Showcase](./images/Portfolio.png)
+
+### Services
+![Services Section](./images/Service.png)
+
+### About Section
+![About Page](./images/About.png)
+
+### Contact
+![Contact Section](./images/Contact.png)
+
 ## 🛠️ Tech Stack
 
 - **HTML** (49.1%) - Structure and semantic markup
@@ -26,7 +43,8 @@ my-first-personal-portfolio/
 ├── css/                # Stylesheets
 ├── js/                 # JavaScript files
 ├── php/                # PHP backend files
-└── assets/             # Images and media files
+├── images/             # Images and media files
+└── README.md           # Project documentation
 ```
 
 ## ✨ Features
@@ -36,6 +54,7 @@ my-first-personal-portfolio/
 - Easy navigation through different sections
 - Professional presentation of skills and projects
 - Contact information and social media links
+- Visually appealing project showcase
 
 ## 🚀 Getting Started
 
@@ -72,6 +91,7 @@ To customize this portfolio:
 2. Modify `css/` files to change styling and colors
 3. Update `js/` files for interactive features
 4. Configure `php/` files for backend functionality
+5. Replace images in `images/` folder with your own
 
 ## 📞 Contact
 
