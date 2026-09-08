@@ -1,0 +1,37 @@
+You said:
+<form action="save_message.php" method="POST">
+
+        <div class="input-box">
+          <input type="text" placeholder="Your Name" />
+          <input type="email" placeholder="Your Email" />
+        </div>
+
+        <div class="input-box">
+          <input type="phone" placeholder="Your Phone" />
+          <input type="text" placeholder="Your Email  Subject" />
+        </div>
+
+        <textarea name="" id="" cols="30" rows="10" placeholder="Your Message">
+        </textarea>
+        <input type="submit" value="Send Message" class="btn" />
+      </form>
+    </section
+DOES this correct
+You said:
+STEP 6 — Run the website from XAMPP
+
+Place your project here:
+
+C:\xampp\htdocs\Personal Portfolio Website\
+
+
+Then open your site:
+
+http://localhost/Personal%20Portfolio%20Website/
+
+
+Now the form will store messages in the database.
+
+how i can run it
+You said:
+can I enter my information
